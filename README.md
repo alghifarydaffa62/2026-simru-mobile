@@ -1,16 +1,21 @@
-# simrumobile
+# SIMRU Mobile (Work in Progress)
+**Mobile Client for SIMRU Room Management System.**
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📝 Description
+This repository is the mobile extension of the **SIMRU (Sistem Informasi Manajemen Ruangan)** website. 
 
-This project is a starting point for a Flutter application.
+**Note:** Currently, this project is in the **initialization phase**. The repository contains the default Flutter boilerplate template and does not yet have functional code or integration with the backend.
 
-A few resources to get you started if this is your first Flutter project:
+## 📖 Usage
+Currently, the app only displays the default Flutter "Counter" template. Functional features for SIMRU will be added in future development sprints.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🤝 Contributing
+As this project is in its early stages, contributions are not yet accepted.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+Distributed under the MIT License.
+
+## 👤 Author Info
+M Daffa Al Ghifary
